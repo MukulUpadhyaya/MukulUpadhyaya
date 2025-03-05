@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukul Upadhyaya</h1>
-<h3 align="center">A passionate frontend developer, currently working at Merkur Gaming India as a frontend game developer.</h3>
+<h3 align="center">A passionate frontend developer, currently working at Helmerich & Payne as a Software Engineer II.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulupadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="mukulupadhyaya" /> </p>
 
