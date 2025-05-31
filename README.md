@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mukulfb49@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jFJlUAj7GOBU-TDExxdGsbg4DDeb1U0X/view?usp=drive_link](https://drive.google.com/file/d/1jFJlUAj7GOBU-TDExxdGsbg4DDeb1U0X/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qimgo691aQwDTu7Z1I3mybwHZrcx9ZiP/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
