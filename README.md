@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulupadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="mukulupadhyaya" /> </p>
 
-- 🔭 I’m currently working on **building Netflix GPT**
+- 🔭 I’m currently working on **React 19**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Frontend System Design**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
